@@ -84,11 +84,8 @@ export default function Form({ customers }: { customers: CustomerField[] }) {
             </p>
           ))}
       </div>
-      
-
           </div>
         </div>
-
         {/* Invoice Status */}
         <fieldset>
           <legend className="mb-2 block text-sm font-medium">
